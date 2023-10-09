@@ -7,7 +7,8 @@ Success does not materialize overnight. It is the outcome of unwavering persiste
 ~ Norman
 
 # 💻 Tech Stack:
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java]()
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) <span style="background-color: #777BB4; color: white; padding: 3px 10px; border-radius: 3px;">PHP</span>
+
 <!--
 **normanang28/normanang28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
