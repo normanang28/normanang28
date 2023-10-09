@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Allow me to introduce myself my name is Normal. I am a junior web developer with proficiency in programming languages such as HTML, CSS, Bootstrap, and PHP. Additionally, I possess graphic design skills, which prove valuable in enhancing the visual appeal of my websites.
+Allow me to introduce myself my name is Norman. I am a junior web developer with proficiency in programming languages such as HTML, CSS, Bootstrap, and PHP. Additionally, I possess graphic design skills, which prove valuable in enhancing the visual appeal of my websites.
 
 Success does not materialize overnight. It is the outcome of unwavering persistence, hard work, and a steadfast commitment to continuous learning. Each small step you take brings you closer to your aspirations. Keep moving forward, even if progress appears gradual!
 
