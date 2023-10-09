@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-let me introduce myself, my name is normal, I am a junior web developer, I have skills in programming languages viz
+let me introduce myself, my name is normal, I am a junior web developer, I have skills in programming languages
 HTML,
 CSS,
 shoelace,
