@@ -4,7 +4,7 @@ Allow me to introduce myself my name is Norman. I am a junior web developer with
 
 Success does not materialize overnight. It is the outcome of unwavering persistence, hard work, and a steadfast commitment to continuous learning. Each small step you take brings you closer to your aspirations. Keep moving forward, even if progress appears gradual!
 
-~ 🔭 Norman 
+🔭 Norman 
 <!--
 **normanang28/normanang28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
