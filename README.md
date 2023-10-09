@@ -1,12 +1,8 @@
 ### Hi there 👋
 
-let me introduce myself, my name is normal, I am a junior web developer, I have skills in programming languages
-HTML,
-CSS,
-shoelace,
-and PHP.
+Allow me to introduce myself my name is Normal. I am a junior web developer with proficiency in programming languages such as HTML, CSS, Bootstrap, and PHP. Additionally, I possess graphic design skills, which prove valuable in enhancing the visual appeal of my websites.
 
-Success doesn't come overnight. It is the result of persistence, hard work, and a commitment to continuous learning. Every small step brings you closer to your goal. Keep moving forward, even if progress feels slow!
+Success does not materialize overnight. It is the outcome of unwavering persistence, hard work, and a steadfast commitment to continuous learning. Each small step you take brings you closer to your aspirations. Keep moving forward, even if progress appears gradual!
 
 <!--
 **normanang28/normanang28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
